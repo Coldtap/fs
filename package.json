@@ -3,7 +3,7 @@
     "name": "Joyent",
     "url": "http://www.joyent.com"
   },
-  "name": "https",
+  "name": "fs",
   "description": "Node.JS fs module",
   "keywords": [
     "ender",
